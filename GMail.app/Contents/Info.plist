@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><dict><key>CFBundlePackageType</key><string>APPL</string><key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
 
-    <key>CFBundleIconFile</key><string>gmail.icns</string>
-
-    <key>CFBundleName</key>               <string>GMail</string>
-    <key>CFBundleExecutable</key>         <string>app.sh</string>
-    <key>CFBundleIdentifier</key>         <string>com.subtlegradient.appify-gmail</string>
+    <key>CFBundleIconFile</key><string>insta.icns</string>
+<key>CFBundleName</key><string>insta</string>
+<key>CFBundleExecutable</key><string>App.sh</string>
+<key>CFBundleIdentifier</key><string>com.myapps.insta</string>
 
     <key>CFBundleVersion</key>            <string>0.1.1</string>
     <key>CFBundleGetInfoString</key>      <string>0.1</string>
